@@ -21,3 +21,39 @@
 * Внутри документа example.py есть пример создания и фильтрации белок по цвету
 * Ссылка на документацию по работе с библиотекой pandas https://pandas.pydata.org/docs/reference/index.html
 * Ссылка на запись вебинара https://www.youtube.com/watch?v=1Irng_IZV84
+
+***
+
+## Установка 
+### PyCharm
+
+Ссылка на видео:
+
+[![Смотреть видеоинструкцию на Youtube](https://img.youtube.com/vi/G0FHkI-UUMs/0.jpg)](https://www.youtube.com/watch?v=G0FHkI-UUMs)
+
+## Консоль
+[![asciicast](https://asciinema.org/a/c3QU9XGsGeXrFKqQSY8UdaAbS.svg)](https://asciinema.org/a/c3QU9XGsGeXrFKqQSY8UdaAbS)
+
+Клонировать репозиторий командой
+```
+$ git clone git@github.com:teacher-ilya/higher-lower-game.git
+```
+или
+```
+$ git@github.com:teacher-ilya/homework-50.git
+```
+
+Установить зависимости для проекта командой
+
+```
+$ poetry install
+```
+***
+
+# Контакты
+
+**Discord Chat**: [Читать](https://discord.gg/e5QUUhvzvt)
+
+**Telegram Chat**: [Читать](https://t.me/+uvYPOd4bsNk2MzBi)
+
+**Youtube Channel** [Смотреть](https://www.youtube.com/channel/UCYspuehThql30psLWg3c-fA/)

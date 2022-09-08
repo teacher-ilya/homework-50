@@ -2,7 +2,7 @@
 import pandas
 
 
-PATH_TO_FILE = 'squirrel_data.csv'
+PATH_TO_FILE = 'homework_50/squirrel_data.csv'
 
 
 def save_example_data(path_to_file):
@@ -20,3 +20,11 @@ def save_example_data(path_to_file):
 
     new_dataframe = pandas.DataFrame(data_dict)
     new_dataframe.to_csv('example_result.csv')
+
+
+def main():
+    save_example_data(PATH_TO_FILE)
+
+
+if __name__ == '__main__':
+    main()
