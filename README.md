@@ -32,7 +32,7 @@
 [![Смотреть видеоинструкцию на Youtube](https://img.youtube.com/vi/G0FHkI-UUMs/0.jpg)](https://www.youtube.com/watch?v=G0FHkI-UUMs)
 
 ## Консоль
-[![asciicast](https://asciinema.org/a/c3QU9XGsGeXrFKqQSY8UdaAbS.svg)](https://asciinema.org/a/c3QU9XGsGeXrFKqQSY8UdaAbS)
+[![asciicast](https://asciinema.org/a/8EDuIMwSEax5J7zuJBSWSAAZj.svg)](https://asciinema.org/a/8EDuIMwSEax5J7zuJBSWSAAZj)
 
 Клонировать репозиторий командой
 ```
@@ -46,7 +46,7 @@ $ git@github.com:teacher-ilya/homework-50.git
 Установить зависимости для проекта командой
 
 ```
-$ poetry install
+$ poetry update
 ```
 ***
 
